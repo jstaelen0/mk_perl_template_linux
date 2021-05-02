@@ -1,0 +1,1 @@
+This program is designed to just disppla a message typed as a command line parameter.
